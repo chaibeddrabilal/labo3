@@ -15,7 +15,7 @@ public class Exemple {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        /////////////
+        ////////////J``ai ajouté un commentaire
         System.out.println("Hello, World!");
     }
     
